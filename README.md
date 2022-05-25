@@ -1,4 +1,4 @@
 # cors-json-generators
 
-Python scripts that generates JSON files that can be used with iMiga emulator "Internet Provider" feature.
+Python scripts that generate JSON files that can be used with iMiga emulator "Internet Provider" feature.
 
